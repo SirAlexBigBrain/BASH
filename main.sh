@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "SirAlexBigBrain"
+name="SirAlexBigBrain"
 echo "hello"
 echo "what be your name?"
 chmod +x main.sh
