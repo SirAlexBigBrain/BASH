@@ -2,5 +2,5 @@
 echo "hello world"
 sudo su -
 apt update
-apt install 
+apt install Docker
 logout
