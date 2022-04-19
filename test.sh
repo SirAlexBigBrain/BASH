@@ -5,4 +5,4 @@ read -p "What is your name?" " Alex "
 echo "Hello $name"
 echo "Welcome to my code!"
 True if file exists
-[[ -a ${file} ]]
+[[ -a ${test.sh} ]]
