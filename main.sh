@@ -2,6 +2,7 @@
 name="SirAlexBigBrain"
 echo "hello"
 echo "what be your name?"
+echo ${name}
 chmod +x main.sh
 ./main.sh
 echo "my name is $1"
