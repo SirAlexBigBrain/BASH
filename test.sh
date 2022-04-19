@@ -8,3 +8,5 @@ chmod +x main.sh
 ./main.sh
 True if file exists
 [[ -a ${test.sh} ]]
+True if file exists and is excutable
+[[ -x ${tesh.sh} ]]
