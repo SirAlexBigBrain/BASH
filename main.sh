@@ -1,8 +1,8 @@
 #!/bin/bash
-name:"SirAlexBigBrain"
+echo "SirAlexBigBrain"
 echo "hello"
 echo "what be your name?"
-sudo su -
+sudo su
 apt update
-apt install Docker
+apt install docker
 logout
