@@ -52,6 +52,12 @@ VAR='@SirAlexBigBrain'
 echo "and I am $VAR!"
 ```
 - runs the variable
+```
+sudo su -
+# switches user to root
+logout
+```
+logs out of root, back to previous user
 
 # How To Run Your Code
 1. go to bellard.org/jslinux or pythonanywhere.com
