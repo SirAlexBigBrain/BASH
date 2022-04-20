@@ -36,4 +36,5 @@ sudo rm -rf
 * appropos - keyword search for commands
 
 # Other Things To Know
-C1EFED66-681D-41A1-A7D0-C03113AFBCD8.png
+![07851861-F5F0-41BE-9A6B-678BBFBA9857](https://user-images.githubusercontent.com/98426972/164244698-5478138e-ac74-4805-9bd1-89bc9f37a367.png)
+
