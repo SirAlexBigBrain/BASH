@@ -19,4 +19,4 @@ num2=20
 #calculating?
 num3=$(($num1+$num2))
 #I'm trying
-echo "The sum is:$num3"
+echo "The sum is: $num3"
