@@ -12,3 +12,7 @@ echo 'never gonna give you up never gonna let you down' > rickroll.txt
 echo 'never gonna run around & desert you' > rickroll.txt
 cat rickroll.txt | grep "never"
 ```
+```bash
+echo '/ p kill user Technodot'
+echo '/p kill user Hardwaregore'
+```
