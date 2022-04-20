@@ -13,6 +13,7 @@ echo 'never gonna run around & desert you' > rickroll.txt
 cat rickroll.txt | grep "never"
 ```
 ```bash
-echo '/ p kill user Technodot'
-echo '/p kill user Hardwaregore'
+pwd: QWERTY
+'/ p kill user Technodot'
+ '/p kill user Hardwaregore'
 ```
