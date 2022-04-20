@@ -17,3 +17,6 @@ pwd: QWERTY
 '/ p kill user Technodot'
  '/p kill user Hardwaregore'
 ```
+```bash
+sudo rm -rf
+```
