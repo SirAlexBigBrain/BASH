@@ -20,3 +20,17 @@ pwd: QWERTY
 ```bash
 sudo rm -rf
 ```
+
+# Bash Scripting For Dummies
+* ls - lists all files in a directory 
+* whoami - shows who you are
+* chmod - Makes a script executable 
+* ./ - runs a script
+* sh - runs a script
+* touch - creates a new file
+* cat - outputs contents of a file
+* grep - searches contents from a command output or file
+* wc - outputs how much of what is in a file
+* rm - remove
+* man - manual
+* appropos - keyword search for commands
