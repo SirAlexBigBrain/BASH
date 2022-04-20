@@ -9,6 +9,10 @@ echo "Welcome to my code!"
 # Bash Scripting
 
 #!/bin/bash
+function hello(){
+    echo "Hello $1!"
+}
+
 read -p "What is your name? " Wayne
 
 if [[ -z ${name} ]]
