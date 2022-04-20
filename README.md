@@ -34,3 +34,6 @@ sudo rm -rf
 * rm - remove
 * man - manual
 * appropos - keyword search for commands
+
+# Other Things To Know
+C1EFED66-681D-41A1-A7D0-C03113AFBCD8.png
