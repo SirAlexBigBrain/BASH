@@ -52,7 +52,7 @@ VAR='@SirAlexBigBrain'
 echo "and I am $VAR!"
 ```
 - runs the variable
-- 
+
 # How To Run Your Code
 1. go to bellard.org/jslinux or pythonanywhere.com
 2. enter code
