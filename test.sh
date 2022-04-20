@@ -8,6 +8,7 @@ echo "Welcome to my code!"
 
 # Bash Scripting
 
+#!/bin/bash
 read -p "What is your name? " Wayne
 
 if [[ -z ${name} ]]
@@ -22,3 +23,5 @@ True if file exists
 [[ -a ${test.sh} ]]
 True if file exists and is excutable
 [[ -x ${tesh.sh} ]]
+
+#!/bin/bash
