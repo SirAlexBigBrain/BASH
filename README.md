@@ -44,7 +44,7 @@ Shebang:
 - starting line of code for Bash
 
 # How To Run Your Code
-1. go to bellard.org/jslinux
+1. go to bellard.org/jslinux or pythonanywhere.com
 2. enter code
 3. watch in awe![99ECE394-17BB-4102-931B-80C365A92900](https://user-images.githubusercontent.com/98426972/164263059-fef3be5d-9b42-463a-96b2-fa7d56b99546.jpeg)
 
