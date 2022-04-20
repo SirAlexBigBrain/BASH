@@ -42,6 +42,10 @@ Shebang:
 #!/bin/bash
 ```
 - starting line of code for Bash
+```
+echo "hello world!"
+```
+- prints 'hello world!' in the terminal
 
 # How To Run Your Code
 1. go to bellard.org/jslinux or pythonanywhere.com
