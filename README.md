@@ -37,4 +37,9 @@ sudo rm -rf
 
 # Other Things To Know
 ![07851861-F5F0-41BE-9A6B-678BBFBA9857](https://user-images.githubusercontent.com/98426972/164244698-5478138e-ac74-4805-9bd1-89bc9f37a367.png)
+Shebang:
+```bash
+#!/bin/bash
+```
+- starting line of code for Bash
 
