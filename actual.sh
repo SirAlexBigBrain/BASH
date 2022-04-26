@@ -25,3 +25,7 @@ VAR="Hello, I did it!"
  if [ "$VAR" = "Hello, I did it" ]
     then
     echo $VAR
+
+ if [ "num1" = "10" ]
+    then
+    echo num1
