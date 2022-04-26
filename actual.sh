@@ -20,3 +20,8 @@ num2=20
 num3=$(($num1+$num2))
 #I'm trying
 echo "The sum is: $num3"
+VAR="Hello, I did it!"
+ 
+ if [ "$VAR" = "Hello, I did it" ]
+    then
+    echo $VAR
